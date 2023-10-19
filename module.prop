@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=megfacemodule
+name=Megface Module
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+author=YourName
+description=Installs libmegface.so
+
